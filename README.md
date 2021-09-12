@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @piniazik
-- 👀 I’m interested in frontend developer
+- 👋 Hi, I’m Aleksei
+- 👀 I am interested in joint development, practice and communication in English.
 - 🌱 I’m currently learning BSU
 - 💞️ I’m looking to collaborate on frontend developer
 - 📫 How to reach me write me a personal.
