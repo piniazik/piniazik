@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aleksei
+- 👋 Hi, I’m Aliaksei 
 - 👀 I'am interested in joint development, practice and communication in English.
 - 🌱 I’m currently learning BSU
 - 💞️ I’m looking to collaborate on frontend developer
