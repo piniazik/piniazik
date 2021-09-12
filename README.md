@@ -2,4 +2,5 @@
 - 👀 I'am interested in joint development, practice and communication in English.
 - 🌱 I’m currently learning BSU.
 - 💞️ I’m looking to collaborate on frontend developer.
-- 📫 How to reach me write me a personal.
+- 📫 How to reach me ? Write me a personal, please.
+- 
