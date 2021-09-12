@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @piniazik
+- 👀 I’m interested in frontend developer
+- 🌱 I’m currently learning BSU
+- 💞️ I’m looking to collaborate on frontend developer
+- 📫 How to reach me write me a personal.
