@@ -10,4 +10,4 @@
 
 ⌚In my free time you can find me learn English by a tutor 👨‍🎓 , at the gym 🏋️‍♂️, and boxing gym 🥊.
 
-💼My skills:  HTML5 / SCSS / JS / jQuery / Bootstrap 5 / Gulp.
+💼My skills:  ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=ionic&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Style-SCSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197) / ![](https://img.shields.io/badge/Code-jQuery-informational?style=flat&logo=ionic&logoColor=white&color=4AB197) ![](https://img.shields.io/badge/Code-Bootstrap5-informational?style=flat&logo=ionic&logoColor=white&color=4AB197). ![](https://img.shields.io/badge/Code-Gulp-informational?style=flat&logo=ionic&logoColor=white&color=4AB197).
