@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Aliaksei.
 #### I'am  frontend developer 👨‍🦰. 
-![I'am  frontend developer 👨‍🦰. ](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRm1o7CexS1gAtXgTFiJKaLKb7Wlx1Elhx4A&usqp=CAU)
+![I'am  frontend developer 👨‍🦰. ](https://www.revealmediapromotions.com/wp-content/uploads/postthumb-3-600x400.png)
 
 🌱 I'am a student of BSU by Specialty: "Programmer Web-designer".
 
