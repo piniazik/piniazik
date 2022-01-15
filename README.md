@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Aliaksei.
-#### I'am  frontend developer 👨‍🦰. 
-![ff920602355e7d555697ceb5e61cad34](https://user-images.githubusercontent.com/52882331/135077825-c3847960-372f-4531-931f-42575e826b73.jpg)
+#### I'am  frontend developer. 
+![ff920602355e7d555697ceb5e61cad34](https://pbs.twimg.com/profile_images/1434406930085150730/u_Dt4T4T_400x400.jpg)
 
 🌱 I'am a student of BSU by Specialty: "Programmer Web-designer".
 
