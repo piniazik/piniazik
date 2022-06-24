@@ -2,10 +2,6 @@
 #### I'am  frontend developer. 
 ![ff920602355e7d555697ceb5e61cad34](https://public.nftstatic.com/static/nft/zipped/c851e36b65bc4997866c284df6666f3c_zipped.gif)
 
-🌱 I'am a student of BSU by Specialty: "Programmer Web-designer".
-
-🎓I finished the IT Academy courses: "HTML5, CSS3, JS".
-
 🔥 I describe myself as a passionate developer who loves coding.
 
 ⌚In my free time you can find me learn English by a tutor 👨‍🎓 , at the gym 🏋️‍♂️, and boxing gym 🥊.
