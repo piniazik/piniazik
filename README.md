@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Aliaksei.
 #### I'am  frontend developer. 
-![ff920602355e7d555697ceb5e61cad34]([https://public.nftstatic.com/static/nft/zipped/c851e36b65bc4997866c284df6666f3c_zipped.gif](http://gif.gy/post/190618572377))
+![ff920602355e7d555697ceb5e61cad34]([[https://public.nftstatic.com/static/nft/zipped/c851e36b65bc4997866c284df6666f3c_zipped.gif](http://gif.gy/post/190618572377](https://giphy.com/explore/afrosamurai)])
 
 🔥 I describe myself as a passionate developer who loves coding.
 
